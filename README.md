@@ -11,4 +11,13 @@ Glassmorphism Calculator with Help of Basic HTML, CSS & Tilt-JavaScript making C
 
 
 - Download or clone the repository
-https://manthanugemuge.github.io/Glassmorphism-Calculator/
+
+
+## How to use Project
+
+- Download or clone the repository Website : 
+
+```
+https://github.com/ManthanUgemuge/Glassmorphism-Calculator.git
+```
+- Run Directly - https://manthanugemuge.github.io/Glassmorphism-Calculator/
