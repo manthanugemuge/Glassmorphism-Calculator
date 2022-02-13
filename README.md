@@ -1,4 +1,4 @@
-# Glassmorphism-Calculator
+# Glassmorphism Calculator
 Glassmorphism Calculator with Help of Basic HTML, CSS & Tilt-JavaScript.</br>
 Making Calculator move with Respect to Mouse Curosr is achieved with help of Tilt-JavaScript.
 
