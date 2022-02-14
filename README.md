@@ -17,3 +17,10 @@ Making Calculator move with Respect to Mouse Curosr is achieved with help of Til
 https://github.com/ManthanUgemuge/Glassmorphism-Calculator.git
 ```
 - Run Directly - https://manthanugemuge.github.io/Glassmorphism-Calculator/
+
+
+## Contributing
+Pull requests are welcome, feel free to ```fork``` this repo.
+
+## License
+This project is open-sourced under the [MIT license]().
