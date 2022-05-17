@@ -16,7 +16,7 @@ Glassmorphism Calculator with Help of Basic HTML, CSS & Tilt-JavaScript.</br>
 ```
 https://github.com/ManthanUgemuge/Glassmorphism-Calculator.git
 ```
-- Run Directly - [Live](https://manthanugemuge.github.io/Glassmorphism-Calculator/)//
+- Run Directly - [Live](https://manthanugemuge.github.io/Glassmorphism-Calculator/)//[Download]()
 
 
 ## Contributing
