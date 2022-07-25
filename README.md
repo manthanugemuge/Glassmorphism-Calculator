@@ -3,7 +3,7 @@ Glassmorphism Calculator with Help of Basic HTML, CSS & Tilt-JavaScript.
 
 ## About the Project
 
-Making Calculator move with respect to Mouse curosr is achieved with help of Tilt-JavaScript.
+Making Calculator move with respect to Mouse curosr is achieved with help of Tilt-JavaScript making Calculator move with Respect to Mouse Curosr.
 
 ## Tech Stacks Used
 
