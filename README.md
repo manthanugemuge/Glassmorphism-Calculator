@@ -19,7 +19,7 @@ Making Calculator move with respect to Mouse curosr is achieved with help of Til
 ```
 https://github.com/manthanugemuge/glassmorphism-calculator.git
 ```
-- Run Directly - [Live](https://manthanugemuge.github.io/Glassmorphism-Calculator/)//[Download](https://github.com/ManthanUgemuge/Glassmorphism-Calculator/archive/refs/heads/main.zip)
+- Run Directly - [Live](https://manthanugemuge.github.io/glassmorphism-calculator/)//[Download](https://github.com/manthanugemuge/glassmorphism-calculator/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
