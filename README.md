@@ -1,5 +1,5 @@
 # Glassmorphism Calculator
-Glassmorphism Calculator with Help of Basic HTML, CSS & Tilt-JavaScript.
+Glassmorphism Calculator with help of HTML, CSS & Vanilla Js.
 
 ## About the Project
 
